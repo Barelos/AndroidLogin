@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogInApp</string>
+    <string name="title">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="checkbox">Sign in</string>
+    <string name="info_title">Enter host and port</string>
+    <string name="info_pos">Confirm</string>
+    <string name="info_neg">Cancel</string>
+    <string name="port_hint">Port</string>
+    <string name="host_hint">Host</string>
+    <string name="info_button">info</string>
+</resources>
